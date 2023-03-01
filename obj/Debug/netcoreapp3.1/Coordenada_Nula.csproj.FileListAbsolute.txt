@@ -1,0 +1,13 @@
+C:\dev\Coordenada_Nula\obj\Debug\netcoreapp3.1\Coordenada_Nula.csprojAssemblyReference.cache
+C:\dev\Coordenada_Nula\obj\Debug\netcoreapp3.1\Coordenada_Nula.AssemblyInfoInputs.cache
+C:\dev\Coordenada_Nula\obj\Debug\netcoreapp3.1\Coordenada_Nula.AssemblyInfo.cs
+C:\dev\Coordenada_Nula\obj\Debug\netcoreapp3.1\Coordenada_Nula.csproj.CoreCompileInputs.cache
+C:\dev\Coordenada_Nula\bin\Debug\netcoreapp3.1\Coordenada_Nula.exe
+C:\dev\Coordenada_Nula\bin\Debug\netcoreapp3.1\Coordenada_Nula.deps.json
+C:\dev\Coordenada_Nula\bin\Debug\netcoreapp3.1\Coordenada_Nula.runtimeconfig.json
+C:\dev\Coordenada_Nula\bin\Debug\netcoreapp3.1\Coordenada_Nula.runtimeconfig.dev.json
+C:\dev\Coordenada_Nula\bin\Debug\netcoreapp3.1\Coordenada_Nula.dll
+C:\dev\Coordenada_Nula\bin\Debug\netcoreapp3.1\Coordenada_Nula.pdb
+C:\dev\Coordenada_Nula\obj\Debug\netcoreapp3.1\Coordenada_Nula.dll
+C:\dev\Coordenada_Nula\obj\Debug\netcoreapp3.1\Coordenada_Nula.pdb
+C:\dev\Coordenada_Nula\obj\Debug\netcoreapp3.1\Coordenada_Nula.genruntimeconfig.cache
